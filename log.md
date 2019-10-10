@@ -31,4 +31,8 @@ Learnt something new though; application of radio and checkbox inputs.
 DAy 2
 Learnt basic CSS techniques. Actually didn't know CSS had variables. Precedence rules in CSS.
 
+### Day 3: October 10, 2019, Thursday
 
+**Today's Progress**: 
+Day 3
+Continued learning CSS techniques. Engaged Visual design techniques using CSS.
