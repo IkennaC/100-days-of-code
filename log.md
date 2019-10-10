@@ -25,4 +25,10 @@
 Finished the HTML lessons for Cat Photo App.
 Learnt something new though; application of radio and checkbox inputs.
 
+### Day 2: October 9, 2019, Wednesday
+
+**Today's Progress**: 
+DAy 2
+Learnt basic CSS techniques. Actually didn't know CSS had variables. Precedence rules in CSS.
+
 
