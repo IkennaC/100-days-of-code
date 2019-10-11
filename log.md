@@ -36,3 +36,9 @@ Learnt basic CSS techniques. Actually didn't know CSS had variables. Precedence 
 **Today's Progress**: 
 Day 3
 Continued learning CSS techniques. Engaged Visual design techniques using CSS.
+
+### Day 4: October 11, 2019, Thursday
+
+**Today's Progress**: 
+Day 4
+Continued learning CSS techniques. And honestly a lot of those has flown over my head. CSS sure is tricky. Would have to sit back and look thoroughly at it.
